@@ -1,0 +1,16 @@
+h1{
+    color: gray;
+  }
+
+  body{
+    background-color: rgb(0, 0, 0);
+    color: gray;
+  } 
+
+  .link{
+    color: darkred;
+  }
+
+  .negrito {
+    color: rgb(100, 100, 100);
+  }
