@@ -1,6 +1,31 @@
+*{
+  margin: 0px 0px 0px 0px;
+}
+
 h1{
-    color: gray;
+    color: black;
     text-align: center;
+    padding: 10px 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  .menutopo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    display: inline-block;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-right: 5%;
+    font-size: 20px;
+    line-height: inherit;
+    white-space: nowrap;
+
+  }
+
+  .header{
+    padding: 17px;
+    background-color: #343a40!important;
   }
 
   .corpo {
@@ -11,7 +36,8 @@ h1{
 
   .link {
     color: darkred;
-    padding: 3px;
+    padding: 10px 3px;
+    text-decoration: none;
   }
 
   .negrito {
@@ -20,6 +46,7 @@ h1{
   }
 
   .imgGabriel {
+    margin-top: 10px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -28,13 +55,21 @@ h1{
     border-color: darkred;
     padding: 3px;
   }
+
+  footer{
+    text-align: center;
+    padding: 50px 20px;
+  }
   
   .imgsocial{
-    padding: 10px 10px;
-    text-align: center;
     max-width: 30px;
   }
 
-  .div1{
+  .article{
+    text-align: center;
+    padding: 20px 150px;
+  }
+
+  .section{
     text-align: center;
   }
